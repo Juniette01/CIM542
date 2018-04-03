@@ -2,7 +2,7 @@
 
 I created an interactive small bird for my midterm project (Ardumini). It was inspired by recent video about owls that led me to explore how to make moveable wings. The bird I created is about three inches tall and has a body made out of craft wire. The craft wire allows its entire body to be a touch sensor. However, it has paper feathers so it will only work if you touch the bird on the exposed area on its head. Once the bird reads your touch, it flaps both wings at the same time using two servo motors (one motor per wing). There is a wire that connects the breadboard to the craft wire body. The servo motors are connected to the wings using invisible thread. What needs work is better attachment of the thread to the wings. If I had more time I would have liked the bird to respond to touch with sound as well.
 
-Components:
+### Components:
 - Arduino Uno
 - Breadboard
 - Wires
@@ -14,10 +14,14 @@ Components:
 
 ### Progress images and video
 
+![Progress photo](https://github.com/Juniette01/CIM542-642/blob/master/hw/week11%20-%20midterm/arduino-progress-pic.jpg)
+
 Video of testing the motors: https://youtu.be/4vTSmJdxNsI
 In this video I was testing if I could connect two servo motors. After this, I tested if I could run them at the same time.
 
 ### Final image and video
+
+![Final image of setup](https://github.com/Juniette01/CIM542-642/blob/master/hw/week11%20-%20midterm/arduino-final-board.jpg)
 
 Video of bird put together and functioning: https://youtu.be/Iqo4ipzuKJ0
 
