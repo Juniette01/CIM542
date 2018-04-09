@@ -1,1 +1,1 @@
-This project used an lED with four legs, three photoresistors, and three colored gels (red, green, and blue). https://youtu.be/6RHXUc1kVRY
+This project used an lED with four legs, three photoresistors, and three colored gels (red, green, and blue). One gel is placed over each photoresistor. They serve to filter which wavelengths of light are coming through. It is not very clear in the video, but when the light goes over each photoresistor, the LED changes color. Video: https://youtu.be/6RHXUc1kVRY

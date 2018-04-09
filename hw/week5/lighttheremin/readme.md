@@ -1,0 +1,1 @@
+This light theremin project uses a piezo to produce sound when the photoresistor senses a difference in light received. The amount of light changes the frequency of the piezo. It gets louder when it senses more light. video:

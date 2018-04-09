@@ -1,0 +1,1 @@
+The Love-o-meter uses a temperature sensor to measure warmth and turn on LEDs depending on the amount of heat. More heat means more LEDs turn on. This project uses three LEDs, three 22-ohm resistors, wires, and a TMP36 (temperature sensor). Video: https://www.youtube.com/watch?v=wa4Z0VM3vss
